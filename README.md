@@ -19,7 +19,9 @@ How to Use
 3. Run the provided test cases to validate the solutions.
 
 Contribution Guidelines
+
 Feel free to contribute by adding more problems and solutions. Please follow the existing directory structure and maintain clear, concise documentation for the benefit of all learners.
 
-Getting Started
+Getting Started:
+
 Clone this repository to your local machine to start exploring the problems and solutions. Happy coding!
