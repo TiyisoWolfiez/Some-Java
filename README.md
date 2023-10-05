@@ -1,6 +1,8 @@
 # Some-Java
 Beginner-Friendly Data Structures Problem Solutions
 
+All in Java 7 :)
+
 Welcome to my repository! Here, you'll find solutions to a curated set of beginner-level data structures problems from Hackerrank. This collection serves as a resource for those looking to strengthen their understanding of fundamental data structures and algorithms.
 
 
